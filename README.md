@@ -7,9 +7,7 @@ L’objectif est de **prédire le prix médian des maisons en Californie** à pa
 
 ```bash
 .
-├── datasets/
-│   └── housing/
-│       └── housing.csv
+├── housing.csv
 ├── projet_machine_learning.ipynb
 ├── README.md
 └── requirements.txt
